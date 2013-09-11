@@ -1,0 +1,23 @@
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\bin\Debug\TVT-Driver.exe
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\bin\Debug\TVT-Driver.pdb
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\bin\Debug\TVT-Driver.xml
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\TVT_Driver.Form1.resources
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\TVT_Driver.Resources.resources
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\TVT-Driver.exe
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\TVT-Driver.xml
+C:\Users\skeimeier\AppData\Local\Temporary Projects\TVT-Driver\obj\x86\Debug\TVT-Driver.pdb
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\TVT-Driver.exe
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\TVT-Driver.xml
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\TVT-Driver.pdb
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\bin\Debug\TVT-Driver.exe
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\bin\Debug\TVT-Driver.pdb
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\bin\Debug\TVT-Driver.xml
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\TVT_Driver.Form1.resources
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\TVT_Driver.Resources.resources
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\skeimeier\Documents\Visual Studio 2010\Projects\TVT-Driver\TVT-Driver\bin\Debug\TVT-Driver.exe.config
